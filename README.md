@@ -1,2 +1,2 @@
 # DecisionTree-donorschoose.org
-Analysis of Donors Choose Dataset with Decision Trees
+Classification of Donors Choose Dataset with Decision Trees
